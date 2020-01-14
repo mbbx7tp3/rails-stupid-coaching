@@ -1,0 +1,29 @@
+h1 {
+  color: blue;
+  }
+
+.container {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.box {
+  border-style: solid;
+  border-color: black;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.box1 {
+  border-style: solid;
+  border-color: black;
+  width: 200px;
+  margin: auto;
+  margin-top: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
